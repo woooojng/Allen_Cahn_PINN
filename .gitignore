@@ -1,14 +1,1 @@
-# Ignore data and logs
-PDE_solution_data/
-result_logs/
-checkpoints/
-*.log
-*.ckpt
-
-# Python & system files
-__pycache__/
-*.pyc
-.DS_Store
-.ipynb_checkpoints/
-.vscode/
-.env
+training_scripts/
